@@ -12,7 +12,12 @@ This project is based on Chapter 19.3 of *"Introduction to Operations Research"*
 
 ## Installation:
 Ensure you have the following libraries installed:
-`pip install numpy pyomo`
+- numpy
+- pyomo
+- glpk (or Gurobi, CBC, HiGhs, etc. LP solver)
+
+Here's an example install:
+`conda install numpy pyomo -c conda-forge glpk`
 
 ## References:
 "Introduction to Operations Research" by F. Hillier and G. Lieberman, 10th Edition, pages 877-887.

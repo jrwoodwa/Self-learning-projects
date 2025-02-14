@@ -1,5 +1,5 @@
 # Markov Decision Process Model - Chapter 19.3
-This project is based on Chapter 19.3 of "Introduction to Operations Research" by F. Hillier and G. Lieberman (10th Edition), specifically pages 877-887. It demonstrates a Markov Decision Process (MDP) formulation and optimization using Pyomo.
+This project is based on Chapter 19.3 of *"Introduction to Operations Research"* by F. Hillier and G. Lieberman (10th Edition), specifically pages 877-887. It demonstrates a Markov Decision Process (MDP) formulation and optimization using Pyomo.
 
 ## Contents:
 Problem Formulation: Defines the states, decisions, and cost matrix.
